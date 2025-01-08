@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Stefan Lindblad (@stefan-intel)
-- 👀 I’m working for Intel on [Simics](https://www.intel.com/content/www/us/en/developer/articles/tool/simics-simulator.html) and releated technologies
-- 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on Simics use-cases
+- 👋 Hi, my name is Stefan Lindblad (@stefan-intel)
+- 👀 Working at Intel as a Simulation Software Engineer
+- 🚧 Developing [Simics](https://www.intel.com/content/www/us/en/developer/articles/tool/simics-simulator.html) and its ecosystem
+- 🌱 For personal development I’m currently learning Rust
+- 💞️ Always looking to collaborate on Simics use-cases
 - 📫 How to reach me: stefan.lindblad@intel.com
